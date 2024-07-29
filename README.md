@@ -16,5 +16,3 @@ Welcome to my first GitHub repository! 🎉 This project features a simple "Hell
 - **Tradition**: It is a time-honored tradition in the programming community, symbolizing the start of a coder's journey.
 
 ---
-
-Thank you for checking out my project! Your support encourages me to keep learning and creating more amazing projects.
